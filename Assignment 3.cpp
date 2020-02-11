@@ -1,5 +1,5 @@
 /*
-Name:				Deron Washington II (DGOOOOOOOOOOOOOOOAT)
+Name:				Deron Washington II
 Class:				CECS 282
 Instructor :			Minhthong Nguyen
 Purpose:			Complex Number Calculator
